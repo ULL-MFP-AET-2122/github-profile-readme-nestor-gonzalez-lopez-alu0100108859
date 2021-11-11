@@ -1,6 +1,5 @@
 # Escriba aquí su Informe
-
-Escriba aquí el informe de su práctica.
+![readme](https://github.com/alu0100108859)
 
 
 ## Información Sobre este Template
